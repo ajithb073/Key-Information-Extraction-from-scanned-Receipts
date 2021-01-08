@@ -1,4 +1,4 @@
-By making use of Pytessaract library for pipeline creation and the trained model from Zhang for extracting Key Information from Invoices.
+By making use of Pytessaract library for pipeline creation and the trained model from Zhang, we extract Key Information from Invoices.
 
 
 Steps:
